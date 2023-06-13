@@ -1,0 +1,8 @@
+.certificate {
+  background: url(../../images/fon.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 350px;;
+  height: 172px;
+  border-radius: 17px;
+}

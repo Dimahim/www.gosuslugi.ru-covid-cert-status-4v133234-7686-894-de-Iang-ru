@@ -1,0 +1,10 @@
+.profile__button-close {
+    display: block;
+    border: 2px solid #0d4cd3;
+    border-radius: 8px;
+    padding: 14px 0;
+    text-align: center;
+    text-decoration: none;
+    color: #0d4cd3;
+    width: 100%;
+}

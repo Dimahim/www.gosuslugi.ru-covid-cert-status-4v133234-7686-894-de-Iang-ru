@@ -1,0 +1,14 @@
+.header__language {
+  max-width: 73px;
+  margin-right: 24px;
+}
+
+/* .header__language {
+  cursor: pointer;
+}
+
+@media screen and (max-width: 896px) {
+  .header__language {
+    display: block;
+  }
+} */

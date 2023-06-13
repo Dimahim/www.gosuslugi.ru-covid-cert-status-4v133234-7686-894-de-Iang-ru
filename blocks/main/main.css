@@ -1,0 +1,13 @@
+.main {
+  max-width: 350px;
+  margin: 0 auto;
+  text-align: center;
+  
+}
+
+/* @media screen and (max-width: 1279px) {
+  .main {
+    padding: 0 19px 0 19px;
+    
+  }
+} */

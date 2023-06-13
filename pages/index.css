@@ -1,0 +1,39 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/_close/page_close.css);
+
+@import url(../blocks/main/main.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__language/header__language.css);
+@import url(../blocks/header/__link/header__link.css);
+
+@import url(../blocks/certificate/certificate.css);
+@import url(../blocks/certificate/__cantainer/certificate__cantainer.css);
+@import url(../blocks/certificate/__date/certificate__date.css);
+@import url(../blocks/certificate/__number/certificate__number.css);
+@import url(../blocks/certificate/__title/certificate__title.css);
+
+@import url(../blocks/profile/profile.css);
+@import url(../blocks/profile/__button-close/profile__button-close.css);
+@import url(../blocks/profile/__button/profile__button.css);
+@import url(../blocks/profile/__cantainer/profile__cantainer.css);
+@import url(../blocks/profile/__data/profile__data.css);
+@import url(../blocks/profile/__name/profile__name.css);
+@import url(../blocks/profile/__passport/profile__passport.css);
+@import url(../blocks/profile/__style-span/profile__style-span.css);
+
+@import url(../blocks/popup/popup.css);
+@import url(../blocks/popup/_opened/popup_opened.css);
+@import url(../blocks/popup/__close-icon/popup__close-icon.css);
+@import url(../blocks/popup/__container/popup__container.css);
+@import url(../blocks/popup/__title/popup__title.css);
+@import url(../blocks/popup/__figure/popup__figure.css);
+@import url(../blocks/popup/__image/popup__image.css);
+@import url(../blocks/popup/__image-caption/popup__image-caption.css);
+@import url(../blocks/popup/__image-container/popup__image-container.css);
+
+
