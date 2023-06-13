@@ -1,0 +1,1 @@
+# www.gosuslugi.ru-covid-cert-status-4v133234-7686-894-de-Iang-ru
